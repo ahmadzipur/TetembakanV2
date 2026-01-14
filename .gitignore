@@ -8,7 +8,7 @@
 [Bb]uilds/
 [Ll]ogs/
 [Mm]emoryCaptures/
-[Aa]ssets\Games\Tetembakan V2\Code
+[Aa]ssets\Games\Tetembakan Versi 2\Code
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
